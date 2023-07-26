@@ -1,6 +1,6 @@
-# NLP4RE Workshop Website
+# MORE Workshop Website
 
-The NLP4RE website uses basic HTML, CSS, and JS. This allows for easy editing and maintenance on any system. Simply download the files, load the local index.html into your web browser, and edit the local files. No compiling or processing needed. It is a scrolling single-page website, and it scales to smaller devices by moving content around.
+The website uses basic HTML, CSS, and JS. This allows for easy editing and maintenance on any system. Simply download the files, load the local index.html into your web browser, and edit the local files. No compiling or processing needed. It is a scrolling single-page website, and it scales to smaller devices by moving content around.
 
 The website is broken up into sections. Here is a brief description of each, with some notes for how to edit them
 - Header
@@ -8,7 +8,6 @@ The website is broken up into sections. Here is a brief description of each, wit
   - You also edit the workshop name and important details such as the workshop date, and deadlines.
 - Home
   - Workshop Overview and Contributions are here.
-  - Update the REFSQ website link in this section.
 - Call for Papers
   - This is where you would edit the types of papers accepted at the workshop.
   - Good to double check the links in this section to make sure they are still working.
