@@ -2,8 +2,8 @@
 
 The website uses basic HTML, CSS, and JS. This allows for easy editing and maintenance on any system. Simply download the files, load the local index.html into your web browser, and edit the local files. No compiling or processing needed. It is a scrolling single-page website, and it scales to smaller devices by moving content around.
 
-The website is broken up into sections. Here is a brief description of each, with some notes for how to edit them
-- Header
+The website is broken up into sections. Here is a brief description of each, with some notes for how to edit them for example
+- Heer
   - In this section you can edit the top nav menu items. Make sure there are matching page elements with the correct IDs so that clicking the menu items will scroll the page to the correct location.
   - You also edit the workshop name and important details such as the workshop date, and deadlines.
 - Home
