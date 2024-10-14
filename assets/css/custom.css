@@ -1,6 +1,30 @@
 /*===========================
      12.CUSTOM
 ===========================*/
+
+
+/* Custom styles for the transparent dropdown */
+/* Custom styles for the semi-transparent grey dropdown */
+.semitransparent-dropdown {
+  background-color: rgba(128, 128, 128, 0.4) !important; /* Semi-transparent grey */
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.semitransparent-dropdown .dropdown-item {
+  color: white !important;
+  background-color: transparent !important;
+  padding-left: 10px !important;
+  padding-top: 1px !important; /* Reduce top padding */
+  padding-bottom: 1px !important; /* Reduce bottom padding */
+  font-size: 11px !important;
+}
+
+.semitransparent-dropdown .dropdown-item:hover,
+.semitransparent-dropdown .dropdown-item:focus {
+  background-color: rgba(128, 128, 128, 0.6) !important; /* Slightly more transparent on hover */
+  color: black !important;
+}
 #navbar-title {
   color: white;
 }
